@@ -1,0 +1,10 @@
+Apple_Raw
+Apple_Ripe
+Banana_Raw
+Banana_Ripe
+Mango_Raw
+Mango_Ripe
+Orange_Raw
+Orange_Ripe
+Strawberry_Raw
+Strawberry_Ripe
